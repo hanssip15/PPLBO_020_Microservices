@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+### MYSQL ###
+mysql.sock
+*.sock
+Part2/order-service/mysql/mysql.sock
